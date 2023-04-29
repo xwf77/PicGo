@@ -1,2 +1,0 @@
-# PicGo
-PicGo
